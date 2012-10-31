@@ -37,6 +37,7 @@ class RockPaperScissors
 			@resultado="pierde"
 			@resultados <<'pierde'
 		end
+		puts final
 	end
 
 end
